@@ -1,7 +1,7 @@
 import React, {useState} from 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import Page from './Page';
+import Header from './src/components/Header';
+import Footer from './src/components/Footer';
+import Page from './src/page';
 
 const pages = ["", "", "Contact", "Resume"];
 
