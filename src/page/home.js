@@ -9,7 +9,7 @@ const home = () => {
       <p>Want to see some amazing projects?</p>
       </div>
       <br></br>
-      <h3>This portfolio  showcases the best projects made.</h3>
+      <h3>This portfolio  showcases the the most exciting projects made.</h3>
       <p></p>
       <br></br>
       <h3></h3>

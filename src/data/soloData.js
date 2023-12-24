@@ -1,4 +1,4 @@
-export const soloPojects = [
+export const soloData = [
     {
         name: "Test Solo",
         description: "Desritpion Solo Test",

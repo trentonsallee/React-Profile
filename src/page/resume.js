@@ -37,6 +37,8 @@ const Resume = () => {
         </ul>
       </div>
     </div>
+
+    <link><h3>https://www.linkedin.com/in/trenton-sallee-56a92a1b5/</h3></link>
   </div>;
 };
 
